@@ -1,6 +1,6 @@
 ## Dotfiles
 
-Dotfiles for configuation of developer preferences on mac os
+Dotfiles for configuation of developer preferences on mac os. Uses gnu stow to sync dotfile for version control.
 
 ### Requirements
 - git
