@@ -5,7 +5,7 @@
 	required = true
 [user]
 	name = Max Hartke
-	email = hartke.max@gmail.com
+	email = [email]
 [core]
 	editor = code --wait
 	autocrlf = input
