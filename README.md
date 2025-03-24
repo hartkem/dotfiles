@@ -8,7 +8,9 @@ Dotfiles for configuation of developer preferences on mac os. Uses gnu stow to s
 
 ### Installation
 
+
 ```
+// clone into home dir
 git clone https://github.com/maxhartke/dotfiles.git
 cd dotfiles
 ```
