@@ -15,7 +15,7 @@ return {
       local purple = "#a371f7" -- done / attention subtle
       local red = "#f85149" -- danger.fg
       local yellow = "#d29922" -- attention.fg
-
+      local magenta = "#cb689f"
       local theme = {
         normal = {
           a = { fg = bg, bg = blue, gui = "bold" },
@@ -28,7 +28,7 @@ return {
           c = { fg = fg, bg = bg },
         },
         visual = {
-          a = { fg = bg, bg = yellow, gui = "bold" },
+          a = { fg = bg, bg = magenta, gui = "bold" },
           b = { fg = fg, bg = bg },
           c = { fg = fg, bg = bg },
         },
