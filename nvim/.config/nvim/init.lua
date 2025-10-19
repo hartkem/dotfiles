@@ -6,7 +6,7 @@ vim.opt.background = "dark" -- or "light"
 vim.cmd.colorscheme("default")
 vim.api.nvim_create_autocmd("VimEnter", {
   callback = function()
-    vim.cmd("cd ~/DEC/devel/")
+    vim.cmd("cd ~")
   end,
 })
 
