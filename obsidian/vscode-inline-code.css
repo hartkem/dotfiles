@@ -1,0 +1,13 @@
+/* Light mode */
+.theme-light :not(pre) > code,
+.theme-light .cm-inline-code {
+  color: #c7254e !important;
+  background-color: rgba(110, 118, 129, 0.15) !important;
+}
+
+/* VSCode-style inline code in Dark mode */
+.theme-dark :not(pre) > code,
+.theme-dark .cm-inline-code {
+    color: #e5c07b !important;
+    background-color: rgba(110, 118, 129, 0.4) !important;
+}
